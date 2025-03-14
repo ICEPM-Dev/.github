@@ -1,12 +1,21 @@
-## Hi there 👋
+!["logo"](logo.png)
 
-<!--
+Somos un equipo de hermanos unidos para crear herramientas digitales que glorifiquen a Dios y sirvan a la iglesia.
 
-**Here are some ideas to get you started:**
+## Nuestra Misión
+Utilizar la tecnología para expandir el Reino de Dios, apoyando ministerios, iglesias y creyentes con soluciones digitales innovadoras y accesibles.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ¿Qué hacemos?
+- Desarrollamos aplicaciones y sitios web para iglesias y ministerios.  
+- Automatizamos procesos administrativos para mejorar la gestión eclesiástica.  
+- Creamos contenido digital para evangelismo y discipulado.  
+- Enseñamos y capacitamos a otros en tecnología con un enfoque cristiano.
+
+## ¿Cómo puedes participar?
+1. **Únete a nuestro equipo:** Si eres programador, diseñador, escritor o apasionado por la tecnología, ¡te necesitamos!
+2. **Colabora en proyectos:** Contribuye con código, diseño, documentación o ideas.
+3. **Comparte conocimientos:** Enseña a otros sobre tecnología y su impacto en la iglesia.
+4. **Ora por el ministerio:** Creemos en el poder de la oración y dependemos de Dios en cada paso.
+
+_"Y todo lo que hagan, de palabra o de hecho, háganlo todo en el nombre del Señor Jesús, dando gracias por medio de Él a Dios el Padre."_  
+**Colosenses 3:17**
